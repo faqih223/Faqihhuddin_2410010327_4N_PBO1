@@ -6,7 +6,7 @@ public class Booking extends Wisata {
     private String namaPelanggan;
     private int jumlahOrang;
     
-    //const
+    //consta
     public Booking(String namaWisata, int harga, String namaPelanggan, int jumlahOrang){
         
         super(namaWisata, harga);

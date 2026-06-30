@@ -2,7 +2,7 @@
 package banjartrip;
 
 public class Wisata {
-    // encaps
+    // encapsu
     private String namaWisata;
     private int harga;
     

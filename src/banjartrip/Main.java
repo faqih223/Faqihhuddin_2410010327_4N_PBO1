@@ -91,7 +91,7 @@ public class Main {
 
                         } else {
 
-                            // Perulangan
+                            // Perulangann
                             for (int i = 0; i < jumlahBooking; i++) {
 
                                 data[i].tampilkan();
